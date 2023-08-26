@@ -1,4 +1,5 @@
 <h1 align="center">Hello!  I'm Yuna 😃</h1>
+<h2>My GitHub</h2>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuna096740&layout=compact&show_icons=true&theme=dark" />
