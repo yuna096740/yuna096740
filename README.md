@@ -1,6 +1,7 @@
 <h1 align="center">Hello!  I'm Yuna 😃</h1>
 <h2>My GitHub</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuna096740&label=Profile%20views&color=0e75b6&style=flat" alt="yuna096740" /> </p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuna096740&layout=compact&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuna096740&theme=dark&show_icons=ture" />
